@@ -1,0 +1,226 @@
+[
+  {
+    "lang_code": [
+      "en",
+      "en-NG",
+      "en-KE",
+      "en-au",
+      "en-bz",
+      "en-gb",
+      "en-ie",
+      "en-ca",
+      "en-nz",
+      "en-us",
+      "en-tt",
+      "en-za",
+      "en-jm"
+    ],
+    "h1": "Thank you for your order!",
+    "desc": "Our manager will contact you"
+  },
+  {
+    "lang_code": ["uk"],
+    "h1": "Дякуємо за ваше замовлення!",
+    "desc": "Наш менеджер зв'яжеться з Вами"
+  },
+  {
+    "lang_code": ["ru"],
+    "h1": "Спасибо за ваш заказ!",
+    "desc": "Наш менеджер свяжется с вами"
+  },
+  {
+    "lang_code": ["ro", "mo", "ro-mo"],
+    "h1": "Mulțumim pentru comanda dvs.!",
+    "desc": "Managerul nostru vă va contacta"
+  },
+  {
+    "lang_code": ["kk"],
+    "h1": "Тапсырысыңыз үшін рақмет!",
+    "desc": "Біздің менеджер сізбен байланысуға қабілеті бар"
+  },
+  {
+    "lang_code": ["be"],
+    "h1": "Дзякуй за ваш заказ!",
+    "desc": "Наш менеджер звяжацца з вамі"
+  },
+  {
+    "lang_code": ["uz"],
+    "h1": "Сизнинг буюртмангиз учун рахмат!",
+    "desc": "Бизнинг менеджер сиз билан боғланишади"
+  },
+  {
+    "lang_code": ["id"],
+    "h1": "Terima kasih atas pesanan Anda!",
+    "desc": "Manajer kami akan menghubungi Anda"
+  },
+  {
+    "lang_code": [
+      "es",
+      "es-ar",
+      "es-bo",
+      "es-ve",
+      "es-gt",
+      "es-hn",
+      "es-do",
+      "es-co",
+      "es-cr",
+      "es-mx",
+      "es-ni",
+      "es-pa",
+      "es-py",
+      "es-pe",
+      "es-pr",
+      "es-sv",
+      "es-uy",
+      "es-cl",
+      "es-ec"
+    ],
+    "h1": "¡Gracias por su pedido!",
+    "desc": "Nuestro gerente se pondrá en contacto con usted"
+  },
+  {
+    "lang_code": ["ar"],
+    "h1": "شكرا على طلبك!",
+    "desc": "سيرتب مديرنا الاتصال بك"
+  },
+  {
+    "lang_code": ["sw", "sw-KE"],
+    "h1": "Asante kwa agizo lako!",
+    "desc": "Meneja wetu atawasiliana na wewe"
+  },
+  {
+    "lang_code": ["hi", "hi-IN"],
+    "h1": "आपके आदेश के लिए धन्यवाद!",
+    "desc": "हमारे प्रबंधक आपसे संपर्क करेंगे"
+  },
+  {
+    "lang_code": ["pl"],
+    "h1": "Dziękujemy za zamówienie!",
+    "desc": "Nasz menedżer skontaktuje się z Tobą"
+  },
+  {
+    "lang_code": ["cs"],
+    "h1": "Děkujeme za vaši objednávku!",
+    "desc": "Náš manažer vás kontaktuje"
+  },
+  {
+    "lang_code": ["sk"],
+    "h1": "Ďakujeme za vašu objednávku!",
+    "desc": "Náš manažér vás kontaktuje"
+  },
+  {
+    "lang_code": ["hr"],
+    "h1": "Hvala vam na vašoj narudžbi!",
+    "desc": "Naš menadžer će vas kontaktirati"
+  },
+  {
+    "lang_code": ["hu"],
+    "h1": "Köszönjük a rendelését!",
+    "desc": "A menedzserünk fel fogja venni Önnel a kapcsolatot"
+  },
+  {
+    "lang_code": ["th"],
+    "h1": "ขอบคุณสำหรับการสั่งซื้อของคุณ!",
+    "desc": "ผู้จัดการของเราจะติดต่อคุณ"
+  },
+  {
+    "lang_code": ["sl"],
+    "h1": "Hvala vam za vaše naročilo!",
+    "desc": "Naš vodja vas bo kontaktiral"
+  },
+  {
+    "lang_code": ["it"],
+    "h1": "Grazie per il vostro ordine!",
+    "desc": "Il nostro manager vi contatterà"
+  },
+  {
+    "lang_code": ["bg"],
+    "h1": "Благодарим ви за поръчката!",
+    "desc": "Нашите мениджъри ще се свържат с вас"
+  },
+  {
+    "lang_code": ["de", "de-AT", "de-DE"],
+    "h1": "Danke für Ihre Bestellung!",
+    "desc": "Unser Manager wird sich mit Ihnen in Verbindung setzen"
+  },
+  {
+    "lang_code": ["el"],
+    "h1": "Ευχαριστούμε για την παραγγελία σας!",
+    "desc": "Ο διευθυντής μας θα επικοινωνήσει μαζί σας"
+  },
+  {
+    "lang_code": ["lv"],
+    "h1": "Paldies par jūsu pasūtījumu!",
+    "desc": "Mūsu vadītājs sazināsies ar jums"
+  },
+  {
+    "lang_code": ["sr"],
+    "h1": "Хвала вам на вашем наруџби!",
+    "desc": "Наш менаџер ће вас контактирати"
+  },
+  {
+    "lang_code": ["hy"],
+    "h1": "Շնորհակալություն ձեր պատվերի համար!",
+    "desc": "Մեր ղեկավարը ձեզ կկապնվի"
+  },
+  {
+    "lang_code": ["et"],
+    "h1": "Täname tellimuse eest!",
+    "desc": "Meie juht võtab teiega ühendust"
+  },
+  {
+    "lang_code": ["vi"],
+    "h1": "Cảm ơn bạn đã đặt hàng!",
+    "desc": "Quản lý của chúng tôi sẽ liên lạc với bạn"
+  },
+  {
+    "lang_code": ["tr"],
+    "h1": "Siparişiniz için teşekkür ederiz!",
+    "desc": "Yöneticimiz sizinle iletişime geçecektir"
+  },
+  {
+    "lang_code": ["pt"],
+    "h1": "Obrigado pela sua encomenda!",
+    "desc": "O nosso gestor entrará em contacto consigo"
+  },
+  {
+    "lang_code": ["fr"],
+    "h1": "Merci pour votre commande!",
+    "desc": "Notre gestionnaire vous contactera"
+  },
+  {
+    "lang_code": ["lt"],
+    "h1": "Dėkojame už jūsų užsakymą!",
+    "desc": "Mūsų vadybininkas su jumis susisieks"
+  },
+  {
+    "lang_code": ["bs"],
+    "h1": "Hvala vam na vašoj narudžbi!",
+    "desc": "Naš menadžer će vas kontaktirati"
+  },
+  {
+    "lang_code": ["mk"],
+    "h1": "Благодариме за вашата нарачка!",
+    "desc": "Нашите менаџери ќе ве контактираат"
+  },
+  {
+    "lang_code": ["sq"],
+    "h1": "Faleminderit për porosinë tuaj!",
+    "desc": "Menaxheri ynë do të kontaktojë me ju"
+  },
+  {
+    "lang_code": ["cnr"],
+    "h1": "Хвала вам на вашем наруџби!",
+    "desc": "Наш менаџер ће вас контактирати"
+  },
+  {
+    "lang_code": ["nl"],
+    "h1": "Bedankt voor uw bestelling!",
+    "desc": "Onze manager zal contact met u opnemen"
+  },
+  {
+    "lang_code": ["bn"],
+    "h1": "আপনার অর্ডারের জন্য ধন্যবাদ!",
+    "desc": "আমাদের ম্যানেজার আপনার সাথে যোগাযোগ করবেন"
+  }
+]
